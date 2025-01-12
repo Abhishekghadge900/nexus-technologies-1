@@ -8,7 +8,7 @@ import LandingPageView2 from "./components/LandingPageView2.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
-    <LandingPageView2 />
+    <LandingPageView1 />
   </StrictMode>
 );
 
